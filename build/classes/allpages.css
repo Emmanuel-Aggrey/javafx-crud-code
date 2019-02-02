@@ -1,0 +1,35 @@
+.root{
+        -fx-background-color: #a9a9a9;
+         -fx-background-color:aliceblue
+}
+ 
+.label{
+     
+    -fx-text-fill:#800040;
+    -fx-border-color:blue;
+    -fx-font-size:10px;
+    -fx-font-weight:bold;
+ 
+    }
+     
+     
+     
+    .button:hover{
+    -fx-background-color:#400040;
+    -fx-text-fill:#2196f3;
+    -fx-font-veight:bold;
+    -fx-text-fill:white;
+    -fx-border-vidth:10;
+    -fx-border-radius:10;
+     
+    }
+     
+    .button{
+    -fx-background-radius:10;
+    -fx-font-size:18;
+    -fx-text-fill:#400040;
+}   
+.text-field{
+      -fx-background-size: 30 30; 
+    
+}
